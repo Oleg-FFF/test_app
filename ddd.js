@@ -43,9 +43,9 @@ function LoginForm() {
     function logIn(e) {
         const { username, password } = values;
         e.preventDefault();
-        console.log('legged in');
+        console.log('legged inggggggg');
         setTimeout(() => {
-            console.log('err');
+            console.log('error');
         }, 3000);
     }
 
